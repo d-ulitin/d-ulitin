@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hello! I'm C++ developer 🔨, mechanical & electronic designer ⚡.
+
+I'm using:
+* C++ (gcc, clang)
+* Windows/Linux
+
+I'm fond of photography. I can profile a digital camera with ColorChecker & dcamprof.
+
