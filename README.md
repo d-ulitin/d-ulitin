@@ -30,3 +30,4 @@ My pet-project is scanning old photoraphies with a digital camera (digitization)
 
 I'm fond of photography. I can profile a digital camera with ColorChecker & dcamprof.
 
+![Photo](exploring_future.jpg)
