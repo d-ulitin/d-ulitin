@@ -21,5 +21,12 @@ I'm using:
 * C++ (gcc, clang)
 * Windows/Linux
 
+My pet-project is scanning old photoraphies with a digital camera (digitization). My own process of digitalization:
+* build a stand, setup high-CRI light
+* profile the camera with ColorChecher & dcamprof
+* scan photos
+* apply profiles & make basic color correction
+* upload & sent link to relatives to make them happy
+
 I'm fond of photography. I can profile a digital camera with ColorChecker & dcamprof.
 
